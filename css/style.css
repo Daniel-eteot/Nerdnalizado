@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Koh+Santepheap&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family= Koulen & display = swap');
+
+.navbar{
+    background-color:#F69514;
+    
+}
+
+
+.caca{
+    background-color: #084E74;
+    border-radius: 40px;
+    margin-left: 30px;
+    margin-top: 5px;
+    padding-bottom: 0.5;
+    width: 180px;
+    text-align: center;
+    font-family: "Josefin Sans";
+    color: white;
+    transition: transform, 0.3s;
+}
+.caca:hover{
+    color: white;
+    transform: scale(1.1);
+}
+
+.produtos{
+    padding: 1% 0% 1% 0% ;
+    margin-left: 2%;
+}
+
+.titulo{
+    font-family:"Koh Santepheap";
+    color: white;
+}
+
+.sinopse{
+    text-decoration: none;
+    color: white;
+    font-family: "Koulen";
+ 
+}
+
+h5{
+    font-family: 'Koulen';
+    color: white;
+    margin-top: 15%;
+}
+
+.card{
+    background-color: #302626;
+}
+
+section{
+    background-color: #F69514;
+}
+
+.miranha{
+    position: absolute;
+    width: 20%;
+    margin: 0% 10% 0% 80%;
+   
+}
+
+.light{
+    position: absolute;
+    width: 20%;
+    margin: 64.4% 0% 0% 50%;
+}
+.titan{
+    position: absolute;
+    width: 25%;
+    margin: 94% 0% 0% 63%;
+}
+
+.m-b{
+    margin-left: 2%;
+}
+
+.login {
+    background-color: white;
+    border-color: rgb(218, 218, 218);
+    border-style: solid;
+    border-width: 1px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 10px;
+    width: 400px;
+    padding: 15px;
+    box-shadow: 7px 10px 71px 7px rgba(194,194,194,0.25);
+}
+
+footer{
+    background-color: #F69514;
+    text-align: center;
+    padding: 13px;
+}
