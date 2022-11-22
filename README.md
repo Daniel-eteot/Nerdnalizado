@@ -1,0 +1,2 @@
+# Nerdnalizado
+ trabalho individual
